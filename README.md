@@ -12,8 +12,7 @@ Vagas disponíveis em https://github.com/backend-br/new-ideas/issues
 
 Abra uma **issue** e, no titulo desta _issue_, coloque o nome do tema entre colchetes seguido da área principal que será exigida para realização do mesmo. Exemplo: Redes de Computadores, Eletrônica, Ciência de dados, etc.
 
-Exemplo: `[Análise de dados aplicada para consciência situacional de pedestres] Inteli-
-gência artificial `
+Exemplo: `[Análise de dados aplicada para consciência situacional de pedestres] Inteligência artificial `
 
 
 **Atenção**: Não aceitaremos ideias sem o nome do tema.
