@@ -11,12 +11,12 @@ Vagas disponíveis em https://github.com/th3d3rkn3ss/new-ideas/issues
 
 ### Cadastrando uma IDEIA
 
-Abra uma **issue** e, no titulo desta _issue_, coloque o nome do tema entre colchetes seguido da área principal que será exigida para realização do mesmo. Exemplo: Redes de Computadores, Eletrônica, Ciência de dados, etc.
+Abra uma **issue** e, no titulo desta _issue_, coloque o nome da ideia-tema entre colchetes seguido da área principal que será exigida para realização do mesmo. Interessante também colocar contatos de pessoas que saibam do assunto ou citações de artigos que abordam o tema. Exemplo: Redes de Computadores, Eletrônica, Ciência de dados, etc.
 
-Exemplo: `[Análise de dados aplicada para consciência situacional de pedestres] Inteligência artificial `
-
-
-## Como receber atualizações das ideias
+Exemplo: `[Análise de dados aplicada para consciência situacional de pedestres] Inteligência artificial; 
+          Contatos: carlos123@mail.com , maria123@mail.com . Referência: <https://repositorio.ufsc.br/handle/123456789/192172>.` 
+          
+### Como receber atualizações das ideias
 
 Você pode receber atualizações das ideias no seu email ou via notificações do GitHub, basta clicar em **Watch** e, em seguida, clicar em **Watching** no canto superior direito da interface do site, próximo a sua foto de perfil.
 
@@ -26,7 +26,7 @@ Você pode receber atualizações das ideias no seu email ou via notificações 
 
 ## Licença
 
-[MIT](/LICENSE) &copy;
+[MIT](/LICENSE) &copy; 2019 João Vitor de Oliveira Camara
 
 
 ## Agradecimento
@@ -36,4 +36,4 @@ Especial para a comunidade [Back-End Brasil](https://github.com/backend-br) que 
 
 
 
-**Atenção**: Não aceitaremos ideias sem o nome do tema.
+**Atenção**: Não aceitaremos ideias sem o nome da ideia-tema.
