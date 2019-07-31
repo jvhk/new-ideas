@@ -6,9 +6,10 @@
 
 Espaço para a divulgação de ideias de TCC ou projetos via _issues_ do Github.
 
-Vagas disponíveis em https://github.com/backend-br/new-ideas/issues
+Vagas disponíveis em https://github.com/th3d3rkn3ss/new-ideas/issues
 
-### Cadastrando uma IDEA
+
+### Cadastrando uma IDEIA
 
 Abra uma **issue** e, no titulo desta _issue_, coloque o nome do tema entre colchetes seguido da área principal que será exigida para realização do mesmo. Exemplo: Redes de Computadores, Eletrônica, Ciência de dados, etc.
 
